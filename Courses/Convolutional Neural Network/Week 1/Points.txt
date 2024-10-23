@@ -1,0 +1,37 @@
+Computer Vision
+
+Motivation of Computer Vision
+1. Rapid Change in the industry  (2-3 examples)
+2. Other industry taking motivation from CV (CNN used for speech recognition)
+
+Simple CV Examples
+1. Cat or not in image
+2. Object Detection 
+3. Neural Style Transfer
+
+
+Challenges of Neural Network
+Hardware Requirements for large data computation
+More Data Require for good Training 
+
+
+Dimentions
+
+
+Lets Start with Computer Vision Problem
+
+1. Face Detection + Overview of Neural netwrok (Step wise how neural network layer wise detect a face)
+2. Edge Detection (Horizontal + Vertical)
+3. Then what does mean learning with the help of this filter 
+4. Padding Explaintion (Valid + Same)
+5. Stride  + Formulas to calculate Output size
+6. Start Playing with filters
+6.1 Single filter output (6x6x3 * 3x3x3 = 4x4)
+6.2 Multiple filter output (6x6x3 * 3x3x3x2 = 4x4x2)
+6.3 Number of parametrs
+6.4 Notations
+6.5 Examples of ConvNet
+7. Types of layers (Pool + FCL)
+8. ResNet-5 Examples
+9. Chart
+10. Why Conv (Parameter Sharing + Sparsity of Connections)

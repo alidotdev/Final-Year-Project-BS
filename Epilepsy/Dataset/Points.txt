@@ -1,0 +1,13 @@
+Points
+1. HAR per train, epilepsy per error
+2. Get Data and move towards pose estimation
+3. Merge Epilepsy dataset and HAR Dataset
+4. Use pretrained model on HAR, transfer learning and apply new getted dataset
+
+
+Questions
+1. Why we are focusing on Activities (instaed pose estimation, facial expression)
+2. How we are going to detect epilepsy (Abnormality)
+3. What does mean abnormality in Activity
+4. if abnormality means new activity, 1 point fail badly
+5. we have alot of seizre types, how we are going to cover all of them (some of them are not detected by activities, like MTLE, ETLE) => (Main Focus on Face Expressions)
